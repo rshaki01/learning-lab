@@ -13,5 +13,5 @@ This is a playground that compiles small projects, UI compnents, creative coding
 Every project is categorized:
 
 learning-lab/
-├── javascript/
-├── ui/
+- javascript/
+- ui/
